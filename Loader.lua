@@ -1,4 +1,4 @@
---// 1.1 Update
+--// 1.2 Update
 
 Script = {
     Table = getgenv()['Spectral.lol'],
