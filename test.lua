@@ -1,7 +1,7 @@
 --// 1.2 Update
 
 Script = {
-    Table = getgenv()['Spectar.lol'],
+    Table = getgenv()['Spectral.lol'],
 
     Target = nil,
     CamTarget = nil,
